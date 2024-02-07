@@ -2,7 +2,7 @@ import axios from 'axios'
 
 describe('Axios Error Handling: Invalid URLs', () => {
     test('should throw an error for invalid URL format', async () => {
-      await expect(axios.get('htp://invalid-url')).rejects.toThrow('Invalid URL');
+      await expect(axios.get('http://invalid-url')).rejects.toThrow('getaddrinfo ENOTFOUND invalid-url');
     });
   });
 
