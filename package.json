@@ -1,0 +1,19 @@
+{
+  "name": "testing-of-axios",
+  "version": "1.0.0",
+  "description": "1dv609  A2",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZakariasB/Testing-Of-Axios.git"
+  },
+  "author": "Zakarias bergcrona",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZakariasB/Testing-Of-Axios/issues"
+  },
+  "homepage": "https://github.com/ZakariasB/Testing-Of-Axios#readme"
+}
